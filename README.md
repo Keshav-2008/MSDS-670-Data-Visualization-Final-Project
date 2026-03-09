@@ -84,7 +84,3 @@ Some of the key findings from the analysis include:
 - Europe and Asia-Pacific regions contain several strong AI economies.
 - Research capability shows a strong relationship with overall AI readiness.
 - AI development depends on an interconnected ecosystem including talent, infrastructure, and commercial activity.
-
----
-
-## Repository Structure
